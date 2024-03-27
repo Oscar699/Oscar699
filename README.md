@@ -8,11 +8,6 @@ Busco aprender constantemente al enfrentar nuevos desafíos y compartir con otro
 ## Contactame:
 [![Gmail](https://img.shields.io/badge/Gmail-oscardavid.rp@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D20103)]()
 
-## Encuentrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Rojas-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/oscar-david-rojas-p)
-
-[![Gmail](https://img.shields.io/badge/Gmail-oscardavid.rp@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D20103)]()
-
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
