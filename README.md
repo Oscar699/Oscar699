@@ -1,4 +1,4 @@
-Hola 👋, Mi nombre es Oscar David Rojas Pardo
+# Hola 👋, Mi nombre es Oscar David Rojas Pardo
 Soy un Ingeniero de Software apasionado por la tecnología, especialmente interesado en el mundo del backend. Busco crear software robusto mediante las mejores prácticas de la industria.
 
 Busco aprender constantemente al enfrentar nuevos desafíos y compartir con otros expertos en la industria Tech. Además, tengo interés particular en explorar y aplicar la Inteligencia Artificial para resolver problemas actuales y futuros.
@@ -13,7 +13,7 @@ Busco aprender constantemente al enfrentar nuevos desafíos y compartir con otro
 
 [![Gmail](https://img.shields.io/badge/Gmail-oscardavid.rp@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D20103)]()
 
-# Tecnologías:
+## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
