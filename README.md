@@ -4,7 +4,7 @@ Soy un Ingeniero de Software apasionado por la tecnología, especialmente intere
 Busco aprender constantemente al enfrentar nuevos desafíos y compartir con otros expertos en la industria Tech. Además, tengo interés particular en explorar y aplicar la Inteligencia Artificial para resolver problemas actuales y futuros.
 
 ## Encuentrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Rojas-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/oscar-david-rojas-p)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Rojas-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/oscar699/)
 ## Contactame:
 [![Gmail](https://img.shields.io/badge/Gmail-oscardavid.rp@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D20103)]()
 
