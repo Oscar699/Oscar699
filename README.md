@@ -1,5 +1,5 @@
 # Hola 👋, Mi nombre es Oscar David Rojas Pardo
-Soy un Ingeniero de Software apasionado por la tecnología, especialmente interesado en el mundo del backend. Busco crear software robusto mediante las mejores prácticas de la industria.
+Soy un Ingeniero de Software interesado en el mundo del backend. Busco crear software robusto mediante las mejores prácticas de la industria.
 
 Busco aprender constantemente al enfrentar nuevos desafíos y compartir con otros expertos en la industria Tech. Además, tengo interés particular en explorar y aplicar la Inteligencia Artificial para resolver problemas actuales y futuros.
 
